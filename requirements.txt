@@ -13,6 +13,7 @@ asyncpg==0.29.0
 # Redis and task queue dependencies
 redis==5.0.1
 celery==5.3.4
+flower==2.0.1
 
 # Utilities and development
 python-multipart==0.0.6
