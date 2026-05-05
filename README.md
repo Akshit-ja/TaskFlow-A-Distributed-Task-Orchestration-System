@@ -76,6 +76,7 @@ A scalable distributed task queue system built with FastAPI, Celery, Redis, and 
 
 4. **Access the services:**
    - API: http://localhost:8000
+   - Demo Dashboard: http://localhost:8000/dashboard
    - API Documentation: http://localhost:8000/docs
    - Task Monitor (Flower): http://localhost:5555
 
